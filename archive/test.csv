@@ -1,0 +1,9 @@
+TransactionAmount,TransactionType,Location,Channel,CustomerAge,TransactionDuration,LoginAttempts,AccountBalance,CustomerOccupation
+14.09,Debit,San Diego,ATM,70,81,1,5112.21,Doctor
+376.24,Debit,Houston,ATM,68,141,1,13758.91,Doctor
+126.29,Debit,Mesa,Online,19,56,1,1122.35,Student
+106.23,Credit,Detroit,Branch,51,86,1,9095.14,Engineer
+13.45,Credit,Atlanta,Online,26,198,1,7429.4,Student
+465.45,Debit,Denver,ATM,36,129,1,3465.54,Engineer
+7.44,Credit,Houston,Online,63,273,1,3634.67,Retired
+161.52,Credit,Indianapolis,Branch,66,289,1,2796.24,Retired
